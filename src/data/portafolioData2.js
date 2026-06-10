@@ -12,5 +12,12 @@ export const db2 = [
         image: "/guitarla.png",
         info: "una pagina web de venta de guitarras en react",
         url: "https://guitarlaecommerce.netlify.app/"
+    },
+    {
+        id: 3,
+        name: "profit",
+        image: "/profit.png",
+        info: "una pagina web de gym en react",
+        url: "https://profitgym1.netlify.app/"
     }
 ]
