@@ -5,7 +5,7 @@ import Image from 'react-bootstrap/Image';
 import './section.css'
 function Section() {
     return (
-        <Container>
+        <Container id='home'>
             <Row className='pt-5'>
                 <Col xs={12} md={6}>
                     <Image className='img' src="https://tse1.mm.bing.net/th/id/OIP.Yi15OHbNuNeCwt9cdKmJ5AHaGY?rs=1&pid=ImgDetMain&o=7&rm=3" fluid />

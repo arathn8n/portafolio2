@@ -16,7 +16,7 @@ const Portafolio = () => {
     return (
         <>
             <Container className='pt-5'>
-                <header>
+                <header id='projects'>
                     <h2 className='h2Center'>Portafolio</h2>
                 </header>
 
