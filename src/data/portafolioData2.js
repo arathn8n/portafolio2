@@ -26,5 +26,12 @@ export const db2 = [
         image: "/garden.png",
         info: "una pagina web de jardin infantil en react",
         url: "https://rainbowgarden.netlify.app/"
+    },
+    {
+        id: 5,
+        name: "yango",
+        image: "/yango.png",
+        info: "una pagina web de servicio IT en react y tailwind",
+        url: "https://yango1.netlify.app/"
     }
 ]
